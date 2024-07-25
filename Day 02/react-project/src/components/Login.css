@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(182, 255, 255);
+    text-align: center;
+}
+
+#ddd{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 150px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#logBox{
+    border: 1px solid rgb(109, 183, 203);
+    border-radius: 8px;
+    background-color: rgb(109, 183, 203);
+    width: fit-content;
+    padding: 52px;
+    margin-left: 42%;
+    
+}
